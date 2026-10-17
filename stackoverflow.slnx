@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="stackoverflow/stackoverflow.vcxproj" Id="6708f99c-a354-408a-a0c0-0b3ec43b2351" />
+</Solution>
